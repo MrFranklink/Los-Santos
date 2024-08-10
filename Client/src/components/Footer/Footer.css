@@ -1,0 +1,10 @@
+footer {
+    position: relative;
+    top:130px;
+    padding: 3.2rem;
+    text-align: center;
+    background-color: var(--btn-color);
+    width: 100%;
+    bottom: 0px;
+    
+  }
